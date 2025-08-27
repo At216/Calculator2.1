@@ -1,0 +1,11 @@
+© 2025 Alexander Martin. All rights reserved.
+
+This application bundles several open-source components. Full license texts are included under the `licenses/` directory.
+
+- Python 3.10 — Python Software Foundation License  
+- Tcl-Tk — BSD-style license  
+- PyInstaller & Auto_Py_To_EXE — GNU General Public License and Apache License, MIT License
+
+See `licenses/` for complete details.
+
+Python is a registered trademark of the Python Software Foundation. This product is not endorsed or certified by the PSF.
